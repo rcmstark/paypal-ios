@@ -8,8 +8,8 @@ for most of countries in the world, but not in Brazil, because there are so many
 have a PayPal account yet. So if you want to use PayPal in countries such as Brazil, you need to use 
 SetExpressCheckout and ReferenceTransaction.
 
-So I create the this project to integrate PayPal in one of my App. So I hope this help other developers to easyly
-add PayPal to your iOS App.
+I create the this project to integrate PayPal in one of my App. So, I hope this work help other developers to easily
+add PayPal to their iOS App.
 
 
 1 - Copy PayPal.h and PayPal.m to your project and import PayPal Class to your UIViewController
